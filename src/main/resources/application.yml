@@ -1,0 +1,15 @@
+server.port: 8089
+spring:
+  # thymeleaf:
+  #   mode: HTML5
+  #   cache: true
+  #   enabled: true
+  #   encoding: utf-8
+  #   prefix: /resources/templates/
+  #   suffix: .html
+  mail:
+    host: smtp.163.com
+    port: 25
+    password: YTSFPRYFDHGDDTGA
+    username: yyytylg@163.com
+    protocol: smtp
